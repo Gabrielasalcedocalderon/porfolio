@@ -108,7 +108,8 @@ main section:nth-child(1){
   background-position: center;
 }
 main section:nth-child(2){
-  min-height: 600px;
+  min-height: 800px;
+	background-color: #292C38; 
 }
 
 @media (min-width: 700px) {
